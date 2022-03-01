@@ -1,4 +1,4 @@
-# Benoit GRASSET
+## Benoit GRASSET
 E-mail : benoit.grasset@gmail.com
 
 Nationalité française
@@ -9,7 +9,7 @@ Téléphone : 06 75 57 87 23
 
 Titulaire du permis de conduire B
 
-## Ingénieur d’études – développeur front-end
+### Ingénieur d’études – développeur front-end
 
 # Formation
 Septembre 2010 à Mars 2016 - Ingénieur en Génie Mécanique et Conception, à l’Université de Technologie de Belfort-Montbéliard, site de Sevenans (90400)
@@ -36,13 +36,14 @@ Cargill, site de Manchester : stage ouvrier d’un mois au sein de la maintenanc
 service gestion et logistique de la division moteurs civils
 
 # Compétences
- Langages Calcul
-CAO
+## Langages
+JavaScript (ReactJS, ES6, TypeScript), HTML5, CSS3, Matlab, VB.Net, VBA, C
+## Calcul
+StarCCM+, GENESIS (langage Nastran), Abaqus (CAE et INP), CATIA V5, ANSA, ANSYS (Classic, APDL, Workbench, Fluent), Altair Hyperworks (HyperMesh, HyperCrash, HyperView), Simulink, COMSOL Multiphysics
+## CAO
+Catia V5, SolidWorks
 
 # Langues
-JavaScript (ReactJS, ES6, TypeScript), HTML5, CSS3, Matlab, VB.Net, VBA, C
-StarCCM+, GENESIS (langage Nastran), Abaqus (CAE et INP), CATIA V5, ANSA, ANSYS (Classic, APDL, Workbench, Fluent), Altair Hyperworks (HyperMesh, HyperCrash, HyperView), Simulink, COMSOL Multiphysics
-Catia V5, SolidWorks
  Anglais : niveau B2 Espagnol : niveau B1 (75.83/100 au DELE de l’institut Cervantes)
  
 # Centres d’intérêt
