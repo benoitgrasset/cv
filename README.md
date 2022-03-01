@@ -11,13 +11,13 @@ Titulaire du permis de conduire B
 
 ### Ingénieur d’études – développeur front-end
 
-## 📚 Formation
+## 🎓 Formation
 Septembre 2010 à Mars 2016 - Ingénieur en Génie Mécanique et Conception, à l’Université de Technologie de Belfort-Montbéliard, site de Sevenans (90400)
 Spécialité Modélisation en mécanique (MOM)
 
 2010 Baccalauréat scientifique Sciences de l’ingénieur au Lycée Camille Claudel (77340)
 
-## Expériences professionnelles et stages
+## 📚 Expériences professionnelles et stages
 ### Juillet 2021 à Mars 2022 - PayPlug, Paris 13e :
 Développeur front-end au sein de la squad Scale & Growth (ReactJS, typescript, Redux, Jest, styled components, Gitlab CI/CD, react-hook-form)
 ### Mars 2016 à Juillet 2021 - DPS (Digital Product Simulation), La Celle-Saint-Cloud (78170) : ingénieur d’études et développeur front-end
@@ -37,8 +37,8 @@ Cargill, site de Manchester : stage ouvrier d’un mois au sein de la maintenanc
 ### Février 2011
 SNECMA (groupe Safran), site de Villaroche (77550) : stage ouvrier d’un mois dans le service gestion et logistique de la division moteurs civils
 
-## 💻 Compétences
-### Langages
+## 🛠️ Compétences
+### 💻 Langages
 JavaScript (ReactJS, ES6, TypeScript), HTML5, CSS3, Matlab, VB.Net, VBA, C
 ### Calcul
 StarCCM+, GENESIS (langage Nastran), Abaqus (CAE et INP), CATIA V5, ANSA, ANSYS (Classic, APDL, Workbench, Fluent), Altair Hyperworks (HyperMesh, HyperCrash, HyperView), Simulink, COMSOL Multiphysics
