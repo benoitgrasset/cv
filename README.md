@@ -7,7 +7,7 @@ Nationalité française 🇫🇷
 
 29 ans
 
-Titulaire du permis de conduire B
+      Titulaire du permis de conduire B
 
 ### Ingénieur d’études – développeur front-end
 
