@@ -1,17 +1,17 @@
 ### Benoit GRASSET
 ✉️ E-mail: benoit.grasset@gmail.com
 
-Nationalité française 🇫🇷
+🇫🇷 Nationalité française
 
 ☎️ Téléphone: 06 75 57 87 23
 
 29 ans
 
-      Titulaire du permis de conduire B
+Titulaire du permis de conduire B
 
 ### Ingénieur d’études – développeur front-end
 
-## Formation
+## 📚 Formation
 Septembre 2010 à Mars 2016 - Ingénieur en Génie Mécanique et Conception, à l’Université de Technologie de Belfort-Montbéliard, site de Sevenans (90400)
 Spécialité Modélisation en mécanique (MOM)
 
@@ -37,7 +37,7 @@ Cargill, site de Manchester : stage ouvrier d’un mois au sein de la maintenanc
 ### Février 2011
 SNECMA (groupe Safran), site de Villaroche (77550) : stage ouvrier d’un mois dans le service gestion et logistique de la division moteurs civils
 
-## Compétences
+## 💻 Compétences
 ### Langages
 JavaScript (ReactJS, ES6, TypeScript), HTML5, CSS3, Matlab, VB.Net, VBA, C
 ### Calcul
