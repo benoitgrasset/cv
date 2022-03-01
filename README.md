@@ -38,11 +38,11 @@ Cargill, site de Manchester : stage ouvrier d’un mois au sein de la maintenanc
 SNECMA (groupe Safran), site de Villaroche (77550) : stage ouvrier d’un mois dans le service gestion et logistique de la division moteurs civils
 
 # Compétences
-## Langages
+### Langages
 JavaScript (ReactJS, ES6, TypeScript), HTML5, CSS3, Matlab, VB.Net, VBA, C
-## Calcul
+### Calcul
 StarCCM+, GENESIS (langage Nastran), Abaqus (CAE et INP), CATIA V5, ANSA, ANSYS (Classic, APDL, Workbench, Fluent), Altair Hyperworks (HyperMesh, HyperCrash, HyperView), Simulink, COMSOL Multiphysics
-## CAO
+### CAO
 Catia V5, SolidWorks
 
 # Langues
