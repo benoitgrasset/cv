@@ -1,9 +1,9 @@
 ## Benoit GRASSET
-E-mail : benoit.grasset@gmail.com
+E-mail: benoit.grasset@gmail.com
 
-Nationalité française
+Nationalité française 🇫🇷
 
-Téléphone : 06 75 57 87 23
+Téléphone ☎️: 06 75 57 87 23
 
 29 ans
 
