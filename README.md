@@ -14,6 +14,7 @@ Titulaire du permis de conduire B
 # Formation
 Septembre 2010 à Mars 2016 - Ingénieur en Génie Mécanique et Conception, à l’Université de Technologie de Belfort-Montbéliard, site de Sevenans (90400)
 Spécialité Modélisation en mécanique (MOM)
+
 2010 Baccalauréat scientifique Sciences de l’ingénieur au Lycée Camille Claudel (77340)
 
 # Expériences professionnelles et stages
@@ -30,10 +31,11 @@ Material-ui, Jest, Cypress, Figma, ESLint, Storybook
 électrique (3D) et sur soupape sodium (1D et 3D) (de Juin 2016 à Mars 2017)
 ### Septembre 2015 à Février 2016 - DPS (Digital Product Simulation), La Celle-Saint-Cloud (78170) : stage de 6 mois en calcul par éléments finis et optimisation topologique
 ### Février 2014 à Juillet 2014 - Concept Machine, Essert (90850) : stage d’assistant ingénieur de 6 mois sujet : conception et fabrication de machines spéciales
-          Février 2013 Février 2011
 conception, mise en plan (SolidWorks), gestion de projet, contact clients et fournisseurs, montage, livraison et installation sur site
-Cargill, site de Manchester : stage ouvrier d’un mois au sein de la maintenance SNECMA (groupe Safran), site de Villaroche (77550) : stage ouvrier d’un mois dans le
-service gestion et logistique de la division moteurs civils
+### Février 2013
+Cargill, site de Manchester : stage ouvrier d’un mois au sein de la maintenance
+### Février 2011
+SNECMA (groupe Safran), site de Villaroche (77550) : stage ouvrier d’un mois dans le service gestion et logistique de la division moteurs civils
 
 # Compétences
 ## Langages
@@ -44,7 +46,9 @@ StarCCM+, GENESIS (langage Nastran), Abaqus (CAE et INP), CATIA V5, ANSA, ANSYS 
 Catia V5, SolidWorks
 
 # Langues
- Anglais : niveau B2 Espagnol : niveau B1 (75.83/100 au DELE de l’institut Cervantes)
+ Anglais : niveau B2
+ 
+ Espagnol : niveau B1 (75.83/100 au DELE de l’institut Cervantes)
  
 # Centres d’intérêt
 Triathlon longue distance: licencié au Versailles Triathlon
