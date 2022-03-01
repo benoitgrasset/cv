@@ -18,6 +18,17 @@ Spécialité Modélisation en mécanique (MOM)
 2010 Baccalauréat scientifique Sciences de l’ingénieur au Lycée Camille Claudel (77340)
 
 ## 📚 Expériences professionnelles et stages
+
+| date |  |
+| ----------- | ----------- |
+| Juillet 2021 à Mars 2022 | PayPlug, Paris 13e |
+| Mars 2016 à Juillet 2021 | Text |
+| Mars 2016 à Juillet 2021 | Développeur front-end au sein de la squad Scale & Growth (ReactJS, typescript, Redux, Jest, styled components, Gitlab CI/CD, react-hook-form)
+ |
+| Mars 2016 à Juillet 2021 | Text |
+| Mars 2016 à Juillet 2021 | Text |
+| Mars 2016 à Juillet 2021 | Text |
+
 ### Juillet 2021 à Mars 2022 - PayPlug, Paris 13e :
 Développeur front-end au sein de la squad Scale & Growth (ReactJS, typescript, Redux, Jest, styled components, Gitlab CI/CD, react-hook-form)
 ### Mars 2016 à Juillet 2021 - DPS (Digital Product Simulation), La Celle-Saint-Cloud (78170) : ingénieur d’études et développeur front-end
