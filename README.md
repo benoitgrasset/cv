@@ -54,12 +54,12 @@ StarCCM+, GENESIS (langage Nastran), Abaqus (CAE et INP), CATIA V5, ANSA, ANSYS 
 
 Catia V5, SolidWorks
 
-## Langues
+## 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇪🇸 Langues
  **Anglais** : niveau B2
  
  **Espagnol** : niveau B1 (75.83/100 au DELE de l’institut Cervantes)
  
-## Centres d’intérêt
+## 🏃 Centres d’intérêt
 Triathlon longue distance: licencié au Versailles Triathlon
 
 Course à pied : Adidas Runners Paris, marathon de Valence (2019 et 2021) Tennis : pratiqué depuis 2002, classement 15/5
