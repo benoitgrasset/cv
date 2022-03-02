@@ -1,4 +1,7 @@
 ### Benoit GRASSET
+
+### Ingénieur d’études – développeur front-end
+
 ✉️ E-mail: benoit.grasset@gmail.com
 
 🇫🇷 Nationalité française
@@ -9,7 +12,6 @@
 
 Titulaire du permis de conduire B
 
-### Ingénieur d’études – développeur front-end
 
 ## 🎓 Formation
 `Septembre 2010 à Mars 2016` - **Ingénieur en Génie Mécanique et Conception**, à l’Université de Technologie de Belfort-Montbéliard, site de Sevenans (90400)
